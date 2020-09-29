@@ -10,3 +10,7 @@ Make two folders "dataset" and "trainer" in the repository where you saved the "
    python3 -m pip install --upgrade pip
    python3 -m pip install --upgrade Pillow
 NOTE-DON'T DELETE ANY FILE OR SUBFOLDER! 
+order of execution-
+1) face_dataset.exe
+2) face_trainer.exe
+3) face_recognition.exe
